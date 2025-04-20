@@ -1,0 +1,9 @@
+[uv]
+# UV 패키지 매니저 설정
+
+# Python 버전 설정
+python-version = ">=3.8"
+# 비슷한 환경을 재사용하여 설치 속도 향상
+reuse-environment = true
+# 호환성을 위해 PEP 582 모드 비활성화
+disable-pep-582 = true 

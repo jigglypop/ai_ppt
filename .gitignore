@@ -1,0 +1,48 @@
+# Python 바이트 코드
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 가상 환경
+venv/
+.venv/
+env/
+ENV/
+
+# 배포 관련
+dist/
+build/
+*.egg-info/
+*.egg
+
+# 개발 환경 설정
+.env
+.env.*
+!.env.example
+
+# IDE 설정
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 캐시 및 로그
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+*.log
+
+# UV 특정 파일
+.uv/
+.uvenv/
+
+# 생성된 PowerPoint 파일
+*.pptx
+
+# 시스템 파일
+.DS_Store
+Thumbs.db 
